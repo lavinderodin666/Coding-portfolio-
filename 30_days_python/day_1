@@ -1,0 +1,6 @@
+#Day 1 of 30 Days of Python 
+#Exercise 1:
+print(10 + 7)
+print(10 - 7)
+print(10 * 7)
+print(10 % 7)
